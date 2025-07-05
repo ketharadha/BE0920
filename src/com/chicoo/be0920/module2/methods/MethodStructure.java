@@ -1,4 +1,4 @@
-package com.chicoo.be0920.module1.methods;
+package com.chicoo.be0920.module2.methods;
 
 import com.kingdon.palace.Throne;
 
@@ -15,7 +15,7 @@ public class MethodStructure {
     }
     private Throne getThorn() {
         var thorne = new Throne();
-        thorne.setPalaceName("Method Structure Palace");
+        thorne.setPalaceName("Method Structure ClassFullStructure");
         return thorne;
     }
     private int counter;

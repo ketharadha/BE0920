@@ -1,4 +1,4 @@
-package com.chicoo.be0920.module1.classstructure;
+package com.chicoo.be0920.module2.classstructure;
 
 public class ConstructorBehaviour {
 

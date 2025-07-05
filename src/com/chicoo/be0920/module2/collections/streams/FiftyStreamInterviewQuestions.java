@@ -194,7 +194,7 @@ public class FiftyStreamInterviewQuestions {
     private static void findFirstNonRepeatedChar() {
         String str = "swiss";
         str.chars()
-                .mapToObj(ch -> (char) ch)
+                .mapToObj(ch -> (char) ch)//Create Stream from a word.
                 .collect(Collectors.groupingBy(ch->ch, LinkedHashMap::new, Collectors.counting()))
                 .entrySet().stream()
                 .filter(e -> e.getValue()==1)

@@ -1,8 +1,8 @@
-package com.chicoo.be0920.module1.methods;
+package com.chicoo.be0920.module2.methods;
 
-import com.chicoo.be0920.module1.classstructure.Dimensions;
-import com.chicoo.be0920.module1.classstructure.ObjectReturnType;
-import com.chicoo.be0920.module1.classstructure.Order;
+import com.chicoo.be0920.module2.classstructure.Dimensions;
+import com.chicoo.be0920.module2.classstructure.ObjectReturnType;
+import com.chicoo.be0920.module2.classstructure.Order;
 
 import java.util.ArrayList;
 import java.util.List;
