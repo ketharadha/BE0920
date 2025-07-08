@@ -39,9 +39,3 @@ public class Starter {
          System.out.println("Sedan Engine");
      }
  }
-
- class Sambar extends Car {
-    void prepareSambar() {
-        System.out.println("Sambar");
-    }
- }

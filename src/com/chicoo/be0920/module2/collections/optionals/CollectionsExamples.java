@@ -1,6 +1,6 @@
 package com.chicoo.be0920.module2.collections.optionals;
 
-import com.chicoo.be0920.util.log;
+import com.chicoo.be0920.module2.util.log;
 
 import java.util.ArrayList;
 import java.util.List;
